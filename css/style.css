@@ -1410,7 +1410,7 @@ padding-bottom: 33px;
 }
 
 .text-img{
-     width: 750px;
+     max-width: 750px;
 }
 .text-img figure img{
      border-radius: 16px;
